@@ -1,4 +1,4 @@
-# 📊 Finance Dashboard - Responsive Frontend App (React + Tailwind)
+# <img src="./public/Dashboard-icon.svg" alt="Dashboard Icon" width="24" height="24" align="center" /> Finance Dashboard - Responsive Frontend App (React + Tailwind)
 
 Welcome to **Finance Dashboard Pro**, a modern, responsive frontend dashboard built using **React 18**, **Vite**, and **Tailwind CSS**. This project demonstrates advanced UI/UX design, global state management, and Role-Based Access Control (RBAC). Whether you’re a fellow developer or a hiring manager, this project reflects my capabilities in building scalable frontend architectures, persistent state management, and interactive data visualization.
 
