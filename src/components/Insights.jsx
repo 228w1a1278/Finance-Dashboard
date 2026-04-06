@@ -28,7 +28,6 @@ const Insights = () => {
       </h3>
       
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {/* Largest Expense */}
         <div className="relative overflow-hidden bg-white dark:bg-gray-900 p-6 rounded-2xl shadow-sm border border-rose-100 dark:border-rose-900/30 hover:shadow-md transition-all group">
           <div className="absolute -right-6 -top-6 w-24 h-24 bg-rose-50 dark:bg-rose-900/10 rounded-full blur-2xl group-hover:bg-rose-100 dark:group-hover:bg-rose-900/20 transition-colors z-0"></div>
           <div className="relative z-10 flex items-start gap-5">
@@ -46,7 +45,6 @@ const Insights = () => {
           </div>
         </div>
 
-        {/* Savings Rate */}
         <div className="relative overflow-hidden bg-white dark:bg-gray-900 p-6 rounded-2xl shadow-sm border border-emerald-100 dark:border-emerald-900/30 hover:shadow-md transition-all group">
           <div className="absolute -right-6 -top-6 w-24 h-24 bg-emerald-50 dark:bg-emerald-900/10 rounded-full blur-2xl group-hover:bg-emerald-100 dark:group-hover:bg-emerald-900/20 transition-colors z-0"></div>
           <div className="relative z-10 flex items-start gap-5">
@@ -62,7 +60,6 @@ const Insights = () => {
           </div>
         </div>
 
-        {/* Spending Habit */}
         <div className="relative overflow-hidden bg-white dark:bg-gray-900 p-6 rounded-2xl shadow-sm border border-blue-100 dark:border-blue-900/30 hover:shadow-md transition-all group">
           <div className="absolute -right-6 -top-6 w-24 h-24 bg-blue-50 dark:bg-blue-900/10 rounded-full blur-2xl group-hover:bg-blue-100 dark:group-hover:bg-blue-900/20 transition-colors z-0"></div>
           <div className="relative z-10 flex items-start gap-5">
